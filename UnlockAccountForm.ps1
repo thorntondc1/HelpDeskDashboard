@@ -18,7 +18,7 @@
         <Rectangle Fill="#FF707070" HorizontalAlignment="Left" Height="168" Stroke="Black" VerticalAlignment="Top" Width="693" Grid.ColumnSpan="205"/>
         <Button Name="Search" Content="Search" Grid.Column="1" HorizontalAlignment="Left" Height="30" Margin="233,225,0,0" VerticalAlignment="Top" Width="90"/>
         <Button Name="Back" Content="Back" Grid.Column="1" HorizontalAlignment="Left" Height="34" Margin="345,364,0,0" VerticalAlignment="Top" Width="87"/>
-        <Image Grid.Column="1" HorizontalAlignment="Left" Height="150" Margin="89,10,0,0" VerticalAlignment="Top" Width="180" Source="C:\Users\dthornton5\Desktop\HelpDesk\UCA.png"/>
+    
     </Grid>
 </Window>
 
