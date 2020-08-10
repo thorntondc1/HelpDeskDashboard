@@ -6,7 +6,7 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-        Title="Unlock Account" Height="456.338" Width="701.308" Background="#FFF7F7F7">
+        Title="Unlock Account" Height="456.338" Width="701.308" Background="#FFF7F7F7" WindowStartupLocation="CenterScreen" ResizeMode="NoResize">
         <Grid Margin="0,0,0,-7" Background="#FFF7F7F7">
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="193*"/>
